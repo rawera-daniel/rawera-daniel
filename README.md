@@ -1,6 +1,5 @@
 # Hi there, I'm Rawera 👋 
 
----
 ## About Me :
 I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in JavaScript, particularly React. I'm a driven individual who enjoys planning, building, and utilizing my skills to turn code into a robust product. I thrive on teamwork and constantly seek opportunities to learn from my teammates.
 
