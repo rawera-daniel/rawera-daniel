@@ -37,5 +37,5 @@ I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawera-daniel&hide=scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawera-daniel&hide=scss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
