@@ -1,7 +1,11 @@
 # Hi there, I'm Rawera 👋 
 
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1669023414171-56f0740e34cd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="600" height="300"/>
+</div>
+
 ## About Me :
-I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in JavaScript, particularly React. I'm a driven individual who enjoys planning, building, and utilizing my skills to turn code into a robust product. I thrive on teamwork and constantly seek opportunities to learn from my teammates.
+I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in JavaScript, particularly React. I'm a driven individual who enjoys planning, building, and utilizing my skills to turn code into a robust product. I thrive on teamwork and constantly seek opportunities to learn from anyone willing to share their knowledge.
 
 ### How to reach me:
 <div>
@@ -37,6 +41,6 @@ I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### 📈 My GitHub Stats:
-[![Rawera's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawera-daniel&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawera-daniel&hide=scss&layout=compact&theme=vision-friendly-dark)
 
