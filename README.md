@@ -38,7 +38,6 @@ I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Github" width="40" height="40"/>
 </div>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg
 ---
 
 ### 📈 My GitHub Stats:
