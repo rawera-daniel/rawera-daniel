@@ -5,7 +5,7 @@
 </div>
 
 ## About Me :
-I'm a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in JavaScript, particularly React. I'm a driven individual who enjoys planning, building, and utilizing my skills to turn code into a robust product. I thrive on teamwork and constantly seek opportunities to learn from anyone willing to share their knowledge.
+I've been very interested in tech since I was young, but I couldn't pursue my true passion in college. After a couple years, I decided to quit my job to teach myself coding full-time, focusing on in-depth JavaScript courses, especially React. Now that I have completed those and have a bunch of real-world projects under my belt.  As a self-taught developer, the joy of writing code, testing it, and creating real-world projects keeps me motivated and dedicated to improving my skills. If you're hiring, let's chat.
 
 ### How to reach me:
 <div>
